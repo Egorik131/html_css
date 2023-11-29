@@ -7,6 +7,8 @@ a {
     text-decoration: none;
 }
 
+/* @import "./fonts/fonts.css"; */
+
 .center {
     padding-left: calc(50% - 600px);
     padding-right: calc(50% - 600px);
@@ -52,7 +54,6 @@ a {
     gap: 40px;
 }
 
-
 .logo_text1 {
     color: #000;
     font-family: "Gilroy-Bold";
@@ -64,13 +65,7 @@ a {
 }
 
 .logo_text2 {
-
     color: #F25822;
-    font-family: "Gilroy-Bold";
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
 }
 
 .menu_header {
@@ -80,6 +75,11 @@ a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.color_menu_home {
+    color: #F25822;
+    font-family: "Gilroy-SemiBold";
 }
 
 .top {
