@@ -657,7 +657,12 @@ a {
     }
 
     .subscribe_info_description {
+        font-size: 18px;
         margin-top: 30px;
+    }
+
+    .subscribe_move_text {
+        font-size: 14px;
     }
 
     .footer {
