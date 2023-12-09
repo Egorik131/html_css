@@ -318,7 +318,6 @@ a {
     justify-content: center;
     padding-left: calc(50% - 800px);
     padding-right: calc(50% - 800px);
-    padding-bottom: -10px;
 }
 
 .tab_on {
